@@ -1,3 +1,6 @@
-export const countContacts = async () => {};
+export const countContacts = async () => {
+
+    const x = 6
+};
 
 console.log(await countContacts());
